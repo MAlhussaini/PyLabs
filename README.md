@@ -10,6 +10,12 @@ My goal:
 1- Create 500 labs.
 2- Learn Object Oriented Programs by doing.
 
+I hope to see a big difference in my coding at the end of the labs ^_^ .
+
 Help me with exciting questions. You could help me requesting a pull to my Lab_Questions.md
 
 Thank you.
+
+Labs Content:-
+
+1- password_validator.py
